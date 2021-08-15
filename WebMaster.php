@@ -15,7 +15,7 @@
  *
  */
 
-namespace bridge\utils {
+namespace your/directory {
 
     use pocketmine\Server;
 
